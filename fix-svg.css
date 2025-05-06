@@ -1,0 +1,21 @@
+.letter-svg {
+    display: inline-block;
+    margin-right: 0.5mm; /* Changed from 1mm to 0.5mm for exactly 1mm spacing between letters */
+    height: 20mm !important; /* Height for SVGs */
+    width: auto;
+}
+
+.letter-svg-img {
+    height: 100%;
+    width: auto;
+    display: block;
+}
+
+#title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 30mm;
+    margin: 0 auto;
+} 

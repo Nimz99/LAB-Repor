@@ -1,0 +1,29 @@
+{
+  "name": "lab-report-cover-page",
+  "version": "1.0.0",
+  "description": "A web application to create lab report cover pages using custom SVG letters",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve",
+    "build": "echo 'Static site, no build required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAB-Repor/lab-report-cover-page.git"
+  },
+  "keywords": [
+    "lab-report",
+    "cover-page",
+    "svg",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LAB-Repor/lab-report-cover-page/issues"
+  },
+  "homepage": "https://github.com/LAB-Repor/lab-report-cover-page#readme",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+} 
